@@ -5,6 +5,7 @@
 #include <time.h>
 using namespace std;
 
+
 Archeologist::Archeologist()
 {
 	score = 0;
