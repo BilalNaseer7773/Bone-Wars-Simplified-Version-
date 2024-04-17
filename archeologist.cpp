@@ -7,6 +7,7 @@
 using namespace std;
 
 
+
 Archeologist::Archeologist()
 {
 	score = 0;
