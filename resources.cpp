@@ -1,6 +1,7 @@
 #include "resources.h"
 
 
+
 Resources::Resources()
 {
 	sizer = 0;
