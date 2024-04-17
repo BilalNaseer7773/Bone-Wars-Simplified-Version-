@@ -3,6 +3,7 @@
 
 using namespace std;
 
+
 int main() {
 	Grid grid;
 	grid.printGrid();
