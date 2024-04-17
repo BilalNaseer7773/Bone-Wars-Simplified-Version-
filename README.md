@@ -5,3 +5,4 @@ The Bone Wars (aka Great Dinosaur Rush1) was a period famous for intense and rut
 
  
 <img width="439" alt="image" src="https://github.com/BilalNaseer7773/Bone-Wars-Simplified-Version-/assets/90666694/f4e84002-0f37-4baf-bdde-73d2bd554704">
+
