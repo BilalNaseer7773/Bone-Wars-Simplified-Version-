@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+
 using namespace std;
 
 Grid::Grid(int n)
